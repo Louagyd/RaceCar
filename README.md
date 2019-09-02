@@ -2,7 +2,7 @@
 trainig a car to drive in a 2d map using Reinforcement Learning and Deep-Q-Learning Algorithm.
 
 ## Video
-first we train a single car, then we build an arena, and then we put the cars.
+first we train a single car, then we build an arena, and then we put the cars. click on the picture to open the video.
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/jJ4bHmYzC0A/0.jpg)](http://www.youtube.com/watch?v=jJ4bHmYzC0A "Video Title")
 
 ## Some Accidents that Occured
