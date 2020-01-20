@@ -1,5 +1,5 @@
 # RaceCar
-trainig a car to drive in a 2d map using Reinforcement Learning and Deep-Q-Learning Algorithm.
+training a self driving car in a 2d map using Reinforcement Learning and Deep-Q-Learning Algorithm.
 
 ## Video
 first we train a single car, then we build an arena, and then we put the cars. click on the picture to open the video.
